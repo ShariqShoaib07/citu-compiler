@@ -1,0 +1,11 @@
+let int n = 5;
+let int result = 1;
+while (n > 1) {
+    result = result * n;
+    n = n - 1;
+}
+if (result == 120) {
+    print("correct");
+} else {
+    print("wrong");
+}

@@ -1,0 +1,5 @@
+let int a = 10;
+let int b = 3;
+let int sum = a + b * 2;
+print(sum);
+print("Hello, Citu!");

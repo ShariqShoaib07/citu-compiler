@@ -1,6 +1,6 @@
 # Citu Compiler: Design Document
 
-**Student:** Shariq (BSCS23180) | **Course:** Compiler Construction | **Repo:** `<https://github.com/ShariqShoaib07/citu-compiler.git>` | **Commit:** `<PASTE COMMIT HASH>`
+**Student:** Shariq (BSCS23180) | **Course:** Compiler Construction | **Repo:** `<https://github.com/ShariqShoaib07/citu-compiler.git>` | **Commit:** `<d99f70c4d7e64bf794f49c0941a77899246fceeb>`
 
 Citu is a small, statically typed, C-like teaching language. The compiler pipeline is: **Source (.citu) → Lexer → Parser → Semantic Analyzer → TAC Generator → (VM / backend)**. Each stage writes an intermediate file (Section 4).
 
@@ -247,8 +247,8 @@ The TAC is either interpreted by a small stack VM or translated to bytecode `<na
 ## 5. Git Repository
 
 - **Student ID:** BSCS23180
-- **Repository URL:** `<https://github.com/ShariqShoaib07/citu-compiler.git>`
-- **Commit:** `<PASTE COMMIT HASH>`
+- **Repository URL:** `https://github.com/ShariqShoaib07/citu-compiler`
+- **Commit:** `<d99f70c4d7e64bf794f49c0941a77899246fceeb>`
 - **Instructor/TA access:** umarsuleman@gmail.com and mscs24052@itu.edu.pk added as collaborators
 
 **Repository layout:**
